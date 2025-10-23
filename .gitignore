@@ -361,3 +361,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Arquivos e pastas do Visual Studio
+.vs/
+*.vcxproj.user
+
+# Pastas de Build (compilação)
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Arquivos gerados
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+
+# Arquivos de save
+savegame.dat
